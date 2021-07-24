@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @denisbotvinovskii
+- 👋 Hi, I’m Denis Botvinovskii
 - 👀 I’m interested in Developing and Guitar
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me https://www.linkedin.com/in/denis-botvinovsky-4a803417a/
