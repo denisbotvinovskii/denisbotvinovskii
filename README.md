@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Denis Botvinovskii</h1>
 <h3 align="center">A JS Frontend developer from Russia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=denisbotvinovskii&label=Profile%20views&color=0e75b6&style=flat" alt="denisbotvinovskii" /> </p>
+
 
 - 👀 I’m interested in Developing and Guitar
 
